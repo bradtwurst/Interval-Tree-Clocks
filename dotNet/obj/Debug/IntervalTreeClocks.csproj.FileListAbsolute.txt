@@ -1,5 +1,0 @@
-C:\Projects\Interval-Tree-Clocks\dotNet\obj\Debug\IntervalTreeClocks.csprojResolveAssemblyReference.cache
-C:\Projects\Interval-Tree-Clocks\dotNet\bin\Debug\IntervalTreeClocks.dll
-C:\Projects\Interval-Tree-Clocks\dotNet\bin\Debug\IntervalTreeClocks.pdb
-C:\Projects\Interval-Tree-Clocks\dotNet\obj\Debug\IntervalTreeClocks.dll
-C:\Projects\Interval-Tree-Clocks\dotNet\obj\Debug\IntervalTreeClocks.pdb
