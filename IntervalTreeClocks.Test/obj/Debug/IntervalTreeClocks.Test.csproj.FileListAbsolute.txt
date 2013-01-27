@@ -1,0 +1,9 @@
+C:\Projects\Interval-Tree-Clocks\IntervalTreeClocks.Test\bin\Debug\IntervalTreeClocks.Test.exe
+C:\Projects\Interval-Tree-Clocks\IntervalTreeClocks.Test\bin\Debug\IntervalTreeClocks.Test.pdb
+C:\Projects\Interval-Tree-Clocks\IntervalTreeClocks.Test\bin\Debug\IntervalTreeClocks.dll
+C:\Projects\Interval-Tree-Clocks\IntervalTreeClocks.Test\bin\Debug\nunit.framework.dll
+C:\Projects\Interval-Tree-Clocks\IntervalTreeClocks.Test\bin\Debug\IntervalTreeClocks.pdb
+C:\Projects\Interval-Tree-Clocks\IntervalTreeClocks.Test\bin\Debug\nunit.framework.xml
+C:\Projects\Interval-Tree-Clocks\IntervalTreeClocks.Test\obj\Debug\IntervalTreeClocks.Test.csprojResolveAssemblyReference.cache
+C:\Projects\Interval-Tree-Clocks\IntervalTreeClocks.Test\obj\Debug\IntervalTreeClocks.Test.exe
+C:\Projects\Interval-Tree-Clocks\IntervalTreeClocks.Test\obj\Debug\IntervalTreeClocks.Test.pdb
